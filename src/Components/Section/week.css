@@ -1,0 +1,36 @@
+.weekHeader{
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    padding-top:15px;
+}
+.weekHeader1{
+    font-size:24px;
+    font-weight: bold;
+}
+.weekHeader3{
+    justify-content: right;
+    font-size:24px;
+    font-weight:bold;
+    padding-left:330px;
+}
+.bold{
+    font-weight: bold;
+}
+.weekHeader2{
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 5px;
+}
+.columnDiv{    
+    width:10%;
+    padding-left: 10px;
+    padding-top:  10px;
+}
+.columnDiv1{    
+    width:30%;
+}
+.columnDiv2{
+    width: 15%;
+}
